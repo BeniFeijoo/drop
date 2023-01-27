@@ -1,9 +1,10 @@
 package com.badlogic.drop.client;
 
+import com.badlogic.drop.Drop;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.badlogic.drop.Drop;
+import com.badlogic.drop.GameScreen;
 
 public class HtmlLauncher extends GwtApplication {
 
